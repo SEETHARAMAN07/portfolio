@@ -14,7 +14,7 @@ export default function Hero() {
         <h1 className="w-1/2 text-white text-6xl font-hero">
           Hi,
           <br />
-          I'm<span className="text-black">V </span>SeethaRaman
+          I am <span className="text-black">V </span>SeethaRaman
           <p className="text-2xl">Im a Computer Science Student</p>
         </h1>
         <div className="flex py-10">
